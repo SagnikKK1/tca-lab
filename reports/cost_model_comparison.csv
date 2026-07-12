@@ -1,0 +1,7 @@
+model,exponent,tape_oos_r2,bookwalk_median_ape
+almgren,0.6,0.2539,126%
+sqrt_law,0.5,0.2439,138%
+power_fit,0.470 (fit),0.2364,148%
+log_concave,log,0.2245,149%
+kyle_linear,1.0,0.1796,52%
+spread_only,-,-0.301,55%

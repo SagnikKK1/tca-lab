@@ -1,0 +1,17 @@
+# data lives outside git — the store is reproducible from source + manifest
+# (root-anchored: src/alphalab/data/ is SOURCE and must be tracked)
+/data/
+/mlruns/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# secrets — never committed
+secret.txt
+.env
